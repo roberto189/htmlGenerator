@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "inquirer": "^9.2.7",
+    "require": "^2.4.20"
+  },
+  "scripts": {
+    "test": "jest --verbose --watch"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
