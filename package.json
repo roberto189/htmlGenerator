@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "inquirer": "^9.2.7",
+    "inquirer": "^8.0.0",
     "require": "^2.4.20"
   },
   "scripts": {
+    "start": "npm start",
     "test": "jest --verbose --watch"
   },
   "devDependencies": {
